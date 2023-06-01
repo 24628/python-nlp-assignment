@@ -1,0 +1,4 @@
+networkx~=2.8.4
+nltk~=3.7
+sparqlwrapper~=2.0.0
+fuzzywuzzy~=0.18.0
